@@ -1,3 +1,33 @@
 .list{
     list-style: none;
+    display: flex;
+    margin-left: 500px;
+    margin-top: -40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.list-2{
+    margin-left: 70px;
+    margin-top: -20px;
+}
+.list-3{
+    margin-left: -200px;
+    margin-top: -20px;
+
+}
+.logo{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.btn-1{
+    border-radius: 8px;
+    margin-left: 1100px;
+    display: flex;
+    flex-direction: row;
+    margin-top: -80px;
+    background: #B68C5A;
+    color: white;
+    border: none;
+    padding: 8px 29px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
