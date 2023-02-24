@@ -240,3 +240,67 @@ body {
     grid-template-rows: 400px 400px;
     margin-left: 100px;
 }
+.end-1{
+    display: flex;
+    width: 300px;
+    
+    
+    margin-left: 500px;
+    padding: 10px;
+    margin-top: -600px;
+}
+.end-2{
+    display: flex;
+    width: 300px;
+    
+    
+    margin-left: 500px;
+    padding: 10px;
+    margin-top: -90px;
+}
+.end-3{
+    display: flex;
+    width: 300px;
+    
+    
+    margin-left: 500px;
+    padding: 10px;
+    margin-top: -90px;
+
+}
+.end-4{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    
+    
+    margin-left: 500px;
+    padding: 10px;
+    margin-top: 110px;
+}
+.full{
+    margin-left: 500px;
+    height: 40px;
+    width: 350px;
+    background-color: #b98a50;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+
+}
+.tree{
+   background-color: black;
+   color: white;
+   display: flex;
+   margin-top: 500px;
+
+}
+.gggg{
+    padding-left: 20px;
+}
+.dddd{
+    background-color: black;
+    color: white;
+    height: -40px;
+
+}
