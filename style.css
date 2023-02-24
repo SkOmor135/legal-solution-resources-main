@@ -43,13 +43,13 @@
 .banner {
     margin-top: 100px;
     background-image: url("images/banner.png");
-    width:1150px;
+    width: 1150px;
     height: 600px;
     background-repeat: no-repeat;
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin: 75px ;
+    margin: 75px;
 }
 
 .btn-2 {
@@ -67,70 +67,85 @@
     padding-top: 150px;
     font-size: 50px;
 }
-.title-1{
+
+.title-1 {
     text-align: center;
     color: white;
     font-family: 'EB Garamond';
     font-size: larger;
 }
 
-body{
+body {
     overflow-y: scroll;
 }
-.placeholder{
+
+.placeholder {
     width: 400px;
     height: 50px;
     border-radius: 7px;
     border: none;
-    
+
 }
-.more-talk{
+
+.more-talk {
     text-align: center;
 }
-.businees-law{
+
+.businees-law {
     text-align: center;
     width: 300px;
-    border: 1px solid rgb(115, 124, 115); 
+    border: 1px solid rgb(115, 124, 115);
     margin-top: 100px;
+    margin-left: 100px;
 }
-.icon{
+
+.icon {
     display: flex;
     flex-direction: row;
     display: grid;
-    grid-template-columns: 400px 400px 400px ;
+    grid-template-columns: 400px 400px 400px;
     margin-left: 100px;
 
 }
-.busineesc-law{
+
+.busineesc-law {
     text-align: center;
     width: 300px;
-    border: 1px solid rgb(115, 124, 115); 
+    border: 1px solid rgb(115, 124, 115);
     background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
     margin-top: 100px;
-    margin-left: -70px;
+
 }
-.businees-law-1{
+
+.businees-law-1 {
     text-align: center;
     width: 300px;
-    border: 1px solid rgb(115, 124, 115); 
-    
+    border: 1px solid rgb(115, 124, 115);
+    margin-left: 100px;
+
 }
-.businees-law-2{
+
+.businees-law-2 {
     text-align: center;
     width: 300px;
-    border: 1px solid rgb(115, 124, 115); 
-    
+    border: 1px solid rgb(115, 124, 115);
+    margin-left: -px;
 }
-.businees-law-3{
+
+.businees-law-3 {
     text-align: center;
     width: 300px;
-    border: 1px solid rgb(115, 124, 115); 
-    
+    border: 1px solid rgb(115, 124, 115);
+    margin-left: -100px;
+
+
 }
-.businees-law-5{
+
+.businees-law-5 {
     text-align: center;
     width: 300px;
-    border: 1px solid rgb(115, 124, 115); 
+    border: 1px solid rgb(115, 124, 115);
     margin-top: 100px;
-    
+    margin-left: -100px;
+
 }
