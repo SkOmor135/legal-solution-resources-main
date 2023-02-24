@@ -10,11 +10,15 @@
 .list-2 {
     margin-left: 70px;
     margin-top: -20px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .list-3 {
     margin-left: -200px;
     margin-top: -20px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
 
@@ -37,23 +41,15 @@
 }
 
 .banner {
-    text-align: center;
     margin-top: 100px;
     background-image: url("images/banner.png");
-    width: 100%;
+    width:1150px;
     height: 600px;
     background-repeat: no-repeat;
     align-items: center;
     justify-content: center;
-    display: flex;
-    flex-direction: row;
+    text-align: center;
     margin: 75px ;
-    
-    
-    
-
-
-
 }
 
 .btn-2 {
@@ -68,5 +64,73 @@
     text-align: center;
     color: white;
     font-family: 'EB Garamond';
+    padding-top: 150px;
+    font-size: 50px;
 }
-.banner-3{}
+.title-1{
+    text-align: center;
+    color: white;
+    font-family: 'EB Garamond';
+    font-size: larger;
+}
+
+body{
+    overflow-y: scroll;
+}
+.placeholder{
+    width: 400px;
+    height: 50px;
+    border-radius: 7px;
+    border: none;
+    
+}
+.more-talk{
+    text-align: center;
+}
+.businees-law{
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(115, 124, 115); 
+    margin-top: 100px;
+}
+.icon{
+    display: flex;
+    flex-direction: row;
+    display: grid;
+    grid-template-columns: 400px 400px 400px ;
+    margin-left: 100px;
+
+}
+.busineesc-law{
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(115, 124, 115); 
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+    margin-top: 100px;
+    margin-left: -70px;
+}
+.businees-law-1{
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(115, 124, 115); 
+    
+}
+.businees-law-2{
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(115, 124, 115); 
+    
+}
+.businees-law-3{
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(115, 124, 115); 
+    
+}
+.businees-law-5{
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(115, 124, 115); 
+    margin-top: 100px;
+    
+}
