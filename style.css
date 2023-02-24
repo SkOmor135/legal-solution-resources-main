@@ -153,3 +153,90 @@ body {
     text-align: center;
    padding-top: 80px;
 }
+.slidere{
+    width: 600px;
+    height: 300px;
+    margin-left: 400px;
+}
+.mark{
+    text-align: center;
+    margin-top: 30px;
+}
+.some{
+    margin-left: 500px;
+    
+}
+.something{
+   
+    margin-top: -500px;
+    border-radius: 2px;
+    border: none;
+    background-color: antiquewhite;
+    height: 200px;
+    margin-right:700px;
+    text-align: left;
+   
+}
+.something-2{
+    
+    border-radius: 2px;
+    border: none;
+    background-color: antiquewhite;
+    height: 50px;
+    margin-right:700px;
+    text-align: left;
+}
+.something-3{
+    
+    border-radius: 2px;
+    border: none;
+    background-color: antiquewhite;
+    height: 50px;
+    margin-right:700px;
+    text-align: left;
+}
+.something-4{
+    
+    border-radius: 2px;
+    border: none;
+    background-color: antiquewhite;
+    height: 50px;
+    margin-right:700px;
+    text-align: left;
+}
+.almost-end{
+    text-align: center;
+    padding-top: 300px;
+
+}
+.mehedi{
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(115, 124, 115);
+    
+}
+.mehedi-2{
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(115, 124, 115);
+    
+}
+.mehedi-3{
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(115, 124, 115);
+    
+}
+.mehedi-4{
+    text-align: center;
+    width: 300px;
+    border: 1px solid rgb(115, 124, 115);
+    
+}
+.glass{
+    display: grid;
+    display: flex;
+    flex-direction: column; 
+    grid-template-rows: 400px 400px;
+    margin-left: 100px;
+}
